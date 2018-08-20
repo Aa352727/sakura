@@ -1,3 +1,11 @@
 girl,Welcome to this cruel world
 
 My favorite person is dragon jade bamboo
+
+我是一只小小鸟呀 咿呀咿呀哟
+ class Myspringboot{
+ public void intruduce(){
+ System.out.println("我是一只小青蛙呀，咿呀咿呀哟！");
+ }
+ 
+ }
